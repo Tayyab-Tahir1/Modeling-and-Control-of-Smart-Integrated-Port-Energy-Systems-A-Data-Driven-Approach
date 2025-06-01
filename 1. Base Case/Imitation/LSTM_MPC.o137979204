@@ -1,0 +1,24 @@
+                                                                            
+Epoch 1565 - Average Loss: 0.047704
+Training stopped at epoch 1565 with best loss 0.045400
+Saving trained model...
+Model saved as lstm_mpc_imitation.pt
+[1;34mwandb[0m: 
+[1;34mwandb[0m: You can sync this run to the cloud by running:
+[1;34mwandb[0m: [1mwandb sync /scratch/fx24/Imitation/Modification/wandb/offline-run-20250329_221051-kwpnx8h2[0m
+[1;34mwandb[0m: Find logs at: [1;35mwandb/offline-run-20250329_221051-kwpnx8h2/logs[0m
+
+======================================================================================
+                  Resource Usage on 2025-03-29 23:30:56:
+   Job Id:             137979204.gadi-pbs
+   Project:            fx24
+   Exit Status:        0
+   Service Units:      48.81
+   NCPUs Requested:    12                     NCPUs Used: 12              
+                                           CPU Time Used: 01:21:29        
+   Memory Requested:   95.0GB                Memory Used: 2.41GB          
+   NGPUs Requested:    1                 GPU Utilisation: 15%             
+                                         GPU Memory Used: 434.0MB         
+   Walltime requested: 24:00:00            Walltime Used: 01:21:21        
+   JobFS requested:    100.0MB                JobFS used: 3.79KB          
+======================================================================================
